@@ -10,3 +10,6 @@
 [redux](https://dmytrodobrovolsky.github.io/redux/)
 # demos
 [tech-taskOne](https://dmytrodobrovolsky.github.io/tech-taskOne/)
+
+# demos
+[store]https://dmytrodobrovolsky.github.io/store/)
