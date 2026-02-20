@@ -12,4 +12,4 @@
 [tech-taskOne](https://dmytrodobrovolsky.github.io/tech-taskOne/)
 
 # demos
-[store]https://dmytrodobrovolsky.github.io/store/)
+[store](https://dmytrodobrovolsky.github.io/store/)
